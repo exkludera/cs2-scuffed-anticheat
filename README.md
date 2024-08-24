@@ -17,7 +17,7 @@
 <br>
 
 > [!NOTE]
-> code from [Letaryat/poor-sharptimer](https://github.com/UgurhanK/BaseBuilder) & [killerbigpoint/cs2-anticheat](https://github.com/UgurhanK/BaseBuilder)
+> code from [Letaryat/poor-sharptimer](https://github.com/Letaryat/poor-sharptimer) & [killerbigpoint/cs2-anticheat](https://github.com/killerbigpoint/cs2-anticheat)
 
 <img src="https://github.com/user-attachments/assets/53e486cc-8da4-45ab-bc6e-eb38145aba36" height="200px"> <br>
 
